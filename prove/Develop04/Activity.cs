@@ -26,6 +26,9 @@ public class Activity
 
     public void ShowSpinner(int seconds)
     {
+        Console.WriteLine("Get Ready...");
+        
+
         List<string> animationStrings = new List<string>();
         animationStrings.Add("|");
         animationStrings.Add("/");
