@@ -1,5 +1,14 @@
 using System;
 
+//I did the Open-ended project.
+
+//My program gets the volume of seven different solid figures, cube, cuboid, cone, cylinder, sphere, pentagonal prism, and pyramid, 
+//the program will also get the surface area of each solid figure, and as an extra keep track of the color for each figure. 
+//This program is useful for a company that makes all kinds of boxes, it can help them determine the amount of cardboard used in their boxes, 
+//and the volume each box will have. My program has seven classes, one for each solid figure, a base class, and the program class. 
+//Finally, my program uses the four principles of programming with classes, abstraction, encapsulation, inheritance, and polymorphism. 
+//My program contains all the classes and methods it needs. The program runs correctly without errors.
+
 class Program
 {
     static void Main(string[] args)
